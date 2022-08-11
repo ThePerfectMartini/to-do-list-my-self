@@ -1,0 +1,15 @@
+.title{
+    text-align: center;
+}
+
+.form{
+    margin: auto;
+    max-width: 80%;
+    text-align: center;
+}
+.to-do{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+}
